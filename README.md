@@ -27,7 +27,7 @@ A curated collection of high-performance, creator-centric **ComfyUI nodes** buil
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/rndnanthu/Comfyui-rndnanthu.git 
+git clone https://github.com/rndnanthu/Comfyui-RndNanthu.git 
 
 pip install -r requirements.txt
 ````
