@@ -1,0 +1,10 @@
+📛 Non-Commercial License Notice
+
+This codebase is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+🔒 You MAY NOT:
+- Use this in any commercial project or SaaS service
+- Include it in paid marketplaces or plugins
+- Monetize this codebase directly or indirectly without the author's explicit consent
+
+For commercial use, please contact the author at GitHub: https://github.com/YOUR_USERNAME
